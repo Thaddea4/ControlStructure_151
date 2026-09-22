@@ -1,0 +1,1 @@
+nilai = float(input("Enter student nilai: "))
